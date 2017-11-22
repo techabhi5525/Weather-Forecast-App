@@ -1,0 +1,82 @@
+.appHeader{
+	font-size: 25;
+	position: absolute;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.appDate{
+	font-size: 15;
+	position: absolute;
+	margin-left: 45%;
+    margin-top: 35px;
+}
+
+.dayWiseTemp{
+    margin: 0 5px 10px 5px;
+	display: inline-block;
+	cursor: pointer;        
+}
+
+.dayDetails{
+    width: 220px;
+	height: 120px;
+    margin: auto; 
+    border: 3px #0099ff;
+	border-radius: 15px;
+    box-shadow: 0px 1px 3px #000066 inset, 0px 0px 8px #0066cc;          
+}
+
+.tempHeader{
+    padding-left: 40%;       
+}
+
+.details{
+    display: block;
+	font-size: 16px;      
+}
+
+.forecastingLayout{
+    display: inline-block;
+    margin: 120px 10px 50px 70px;      
+}
+
+.fullDayDetails{
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+	border: 3px #0099ff;
+	border-radius: 15px;
+	box-shadow: 0px 1px 3px #000066 inset, 0px 0px 8px #0066cc;        
+}
+
+.dayHeader{
+    margin-top: 10px;
+	margin-left: 40px;        
+}
+
+.city{
+    padding-top: 0;
+	padding-bottom: 0;       
+}
+
+.fullDate{
+    padding-bottom: 0;      
+}
+
+.content{
+    margin-top: 5%;  
+}
+.loaderWrapper {
+	position: absolute;
+	margin-left: 35%;
+}
+
+.loaderWrapper.h4 {
+    font-size: 20;
+    color: #fff;
+}
+
+.spinner {
+	padding-left: 55px;
+}
