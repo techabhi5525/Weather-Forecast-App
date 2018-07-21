@@ -2,7 +2,7 @@ import React from 'react';
 import { shallow, mount } from 'enzyme';
 
 import ForecastDayWise from '../app/components/ForecastDayWise.jsx';
-
+// test branch for git git pull request
 describe('Test ForecastDayWise Component layout', () => {
 
 	const sample_props = [
